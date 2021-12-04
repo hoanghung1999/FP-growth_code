@@ -23,7 +23,7 @@ public class Application {
         System.out.println("--------------- Frequense item set ---------------");
         String outputFolder = "D:/DoAnTotNghiep/association_rule-fpgrowth/association_rule-fpgrowth";
         System.out.println(itemSet.size());
-        PrintWriter outFreqItemSet = new PrintWriter( outputFolder + "/output_item_list.txt");
+        PrintWriter outFreqItemSet = new PrintWriter( outputFolder + "/frequentItemSet.txt");
         for (ArrayList<String> item: itemSet.keySet()) {
             for (String one: item) {
                 if (item.get(item.size()-1).equals(one)) {
@@ -38,7 +38,7 @@ public class Application {
         FindRule findRule = new FindRule(minConf);
         ArrayList<Rule> listRule = findRule.getAssosiationRule(itemSet);
         System.out.println(listRule.size());
-        PrintWriter outRule = new PrintWriter(outputFolder + "/output_rule.txt");
+        PrintWriter outRule = new PrintWriter(outputFolder + "/outputRule.txt");
         for (Rule rule : listRule) {
             for (String item: rule.first) {
                 if (item.equals(rule.first.get(rule.first.size()-1)))
