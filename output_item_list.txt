@@ -1,0 +1,1397 @@
+Bread, Ghee, Sugar, Tea Powder, Yougurt: 261
+Bread, Cheese, Lassi, Milk, Sweet: 263
+Bread, Cheese, Lassi, Milk: 561
+Butter, Ghee, Sugar: 1226
+Cheese, Milk, Sugar, Tea Powder: 544
+Cheese, Coffee Powder, Panner, Sweet, Yougurt: 273
+Cheese, Coffee Powder, Lassi, Sweet, Tea Powder: 254
+Butter, Cheese, Tea Powder: 1092
+Bread, Butter, Coffee Powder, Lassi, Panner: 273
+Bread, Cheese, Coffee Powder, Ghee, Lassi: 291
+Butter, Milk, Yougurt: 1181
+Bread, Ghee, Milk, Panner: 580
+Coffee Powder: 5509
+Ghee, Lassi, Panner, Tea Powder: 582
+Bread, Lassi, Sugar: 1176
+Bread, Milk, Sweet, Tea Powder, Yougurt: 267
+Bread, Butter, Milk, Panner, Sugar: 256
+Ghee, Lassi, Milk, Sugar: 589
+Butter, Panner, Sweet, Tea Powder: 566
+Ghee, Lassi, Panner, Sugar, Tea Powder: 273
+Lassi, Milk, Sweet, Yougurt: 575
+Cheese, Milk, Tea Powder, Yougurt: 528
+Coffee Powder, Ghee, Milk, Sugar: 567
+Cheese, Panner: 2497
+Bread, Ghee, Lassi, Tea Powder: 567
+Bread, Ghee, Sweet, Yougurt: 524
+Bread, Panner, Yougurt: 1188
+Cheese, Lassi, Milk, Panner, Sugar: 261
+Yougurt: 5503
+Butter, Ghee, Lassi, Panner, Tea Powder: 281
+Butter, Coffee Powder, Panner, Tea Powder: 509
+Bread, Coffee Powder, Tea Powder: 1166
+Coffee Powder, Ghee, Tea Powder: 1169
+Bread, Coffee Powder, Ghee, Lassi, Yougurt: 269
+Butter, Ghee, Lassi, Milk, Sugar: 288
+Butter, Coffee Powder, Milk, Sugar: 597
+Butter: 5481
+Cheese, Ghee, Sugar, Tea Powder: 513
+Butter, Lassi, Milk, Sweet, Yougurt: 280
+Cheese, Sugar, Sweet, Yougurt: 552
+Butter, Coffee Powder, Ghee, Milk, Sugar: 272
+Ghee, Lassi, Panner, Tea Powder, Yougurt: 260
+Butter, Cheese, Lassi, Sweet: 581
+Bread, Ghee, Panner, Sugar, Tea Powder: 269
+Cheese, Lassi, Panner, Sugar: 564
+Bread, Ghee, Milk, Yougurt: 559
+Cheese, Coffee Powder: 2517
+Coffee Powder, Sugar, Tea Powder: 1182
+Lassi, Sugar: 2503
+Ghee, Lassi, Milk, Panner, Yougurt: 269
+Coffee Powder, Lassi, Panner, Sweet: 608
+Butter, Lassi, Panner, Yougurt: 561
+Bread, Coffee Powder, Sugar, Sweet, Tea Powder: 263
+Cheese, Ghee, Milk, Sugar, Yougurt: 266
+Butter, Cheese, Coffee Powder, Sugar: 546
+Bread, Cheese, Ghee, Tea Powder: 523
+Bread, Butter, Lassi, Sweet, Tea Powder: 252
+Bread, Sugar, Sweet: 1162
+Bread, Butter, Ghee, Panner, Sugar: 273
+Bread, Cheese, Coffee Powder, Panner, Yougurt: 269
+Butter, Cheese, Sugar, Sweet, Yougurt: 257
+Coffee Powder, Ghee, Lassi, Panner: 597
+Bread, Coffee Powder, Milk, Sweet: 568
+Ghee, Sugar, Tea Powder, Yougurt: 548
+Cheese, Ghee, Tea Powder, Yougurt: 530
+Bread, Butter, Cheese, Ghee: 528
+Butter, Cheese, Lassi, Panner, Sugar: 274
+Butter, Lassi: 2501
+Bread, Cheese, Coffee Powder, Ghee, Sweet: 267
+Cheese, Yougurt: 2532
+Butter, Coffee Powder, Lassi, Panner, Sweet: 266
+Bread, Ghee: 2503
+Milk, Sweet, Yougurt: 1163
+Butter, Coffee Powder, Lassi, Panner: 565
+Milk: 5526
+Bread, Cheese, Sugar, Tea Powder: 533
+Cheese, Coffee Powder, Ghee, Lassi: 574
+Bread, Butter, Ghee, Milk, Sweet: 265
+Coffee Powder, Tea Powder, Yougurt: 1193
+Lassi, Sugar, Yougurt: 1188
+Bread, Cheese, Milk: 1183
+Coffee Powder, Ghee, Lassi, Milk, Sugar: 281
+Bread, Butter, Cheese, Milk, Sugar: 267
+Bread, Lassi, Milk, Panner, Sweet: 300
+Bread, Ghee, Milk, Panner, Yougurt: 268
+Butter, Coffee Powder, Ghee, Lassi, Panner: 287
+Butter, Ghee, Sugar, Tea Powder, Yougurt: 259
+Coffee Powder, Lassi, Milk, Sweet, Yougurt: 281
+Butter, Cheese, Ghee, Tea Powder, Yougurt: 253
+Bread, Coffee Powder, Ghee, Lassi, Milk: 279
+Cheese, Lassi, Milk: 1173
+Milk, Sweet, Tea Powder, Yougurt: 544
+Butter, Milk, Panner, Sugar: 569
+Bread, Coffee Powder, Panner, Sugar, Sweet: 268
+Bread, Butter, Panner, Sugar, Yougurt: 265
+Ghee, Milk, Panner: 1166
+Butter, Cheese, Coffee Powder, Ghee, Lassi: 261
+Bread, Butter, Coffee Powder, Lassi, Milk: 273
+Bread, Cheese, Tea Powder, Yougurt: 563
+Cheese, Lassi, Panner, Sugar, Yougurt: 271
+Bread, Sweet, Tea Powder: 1168
+Cheese, Coffee Powder, Lassi: 1181
+Coffee Powder, Ghee, Lassi, Yougurt: 585
+Butter, Panner, Sweet: 1221
+Bread, Ghee, Milk, Sugar, Sweet: 261
+Bread, Milk, Panner, Sweet: 592
+Ghee, Lassi, Tea Powder: 1163
+Bread, Butter, Cheese, Lassi, Panner: 255
+Ghee, Sweet, Yougurt: 1130
+Ghee, Panner, Sugar, Tea Powder: 551
+Cheese, Milk: 2468
+Cheese: 5476
+Bread, Milk, Tea Powder: 1148
+Coffee Powder, Sugar, Sweet, Tea Powder: 570
+Butter, Coffee Powder, Ghee, Lassi, Yougurt: 289
+Butter, Lassi, Sweet, Tea Powder: 574
+Ghee, Milk, Sugar, Sweet, Tea Powder: 257
+Butter, Ghee, Panner, Sugar: 587
+Cheese, Coffee Powder, Panner, Yougurt: 566
+Milk, Panner, Sugar, Sweet, Tea Powder: 272
+Butter, Sweet: 2543
+Bread, Cheese, Lassi, Milk, Panner: 275
+Butter, Ghee, Panner, Sugar, Tea Powder: 258
+Bread, Butter, Ghee: 1158
+Ghee, Milk, Yougurt: 1163
+Butter, Cheese, Panner, Tea Powder: 520
+Cheese, Coffee Powder, Ghee, Sweet: 527
+Cheese, Ghee, Tea Powder: 1087
+Butter, Coffee Powder, Sugar, Sweet, Tea Powder: 289
+Cheese, Coffee Powder, Lassi, Sugar, Yougurt: 259
+Coffee Powder, Milk, Sweet, Tea Powder, Yougurt: 268
+Butter, Cheese, Coffee Powder, Panner, Yougurt: 263
+Butter, Cheese, Milk, Sugar: 566
+Lassi, Milk, Panner, Sweet: 619
+Ghee, Milk, Panner, Yougurt: 554
+Coffee Powder, Milk, Sweet: 1169
+Bread, Butter, Ghee, Lassi: 554
+Butter, Lassi, Milk, Tea Powder: 536
+Bread, Ghee, Milk, Sweet, Tea Powder: 257
+Bread, Cheese, Ghee, Lassi, Sweet: 269
+Bread, Ghee, Panner, Sweet: 574
+Coffee Powder, Ghee, Lassi, Milk: 590
+Butter, Cheese, Ghee: 1134
+Bread, Lassi, Panner, Sugar, Sweet: 295
+Bread, Ghee, Lassi, Sugar, Tea Powder: 267
+Bread, Butter, Coffee Powder, Ghee, Tea Powder: 261
+Ghee, Tea Powder: 2418
+Bread, Cheese, Lassi, Sweet, Yougurt: 267
+Bread, Lassi, Panner, Tea Powder: 566
+Butter, Ghee, Panner, Tea Powder, Yougurt: 280
+Cheese, Coffee Powder, Ghee, Milk, Panner: 266
+Ghee, Lassi, Milk, Sugar, Tea Powder: 290
+Cheese, Coffee Powder, Sugar, Sweet: 527
+Coffee Powder, Panner, Sugar, Sweet: 547
+Butter, Panner, Sugar, Yougurt: 584
+Cheese, Sugar, Tea Powder: 1121
+Ghee, Milk, Panner, Sugar, Sweet: 251
+Butter, Coffee Powder, Lassi, Milk: 577
+Bread, Lassi, Milk, Sugar: 574
+Cheese, Coffee Powder, Sweet: 1152
+Bread, Coffee Powder, Lassi, Panner, Yougurt: 273
+Butter, Lassi, Milk, Panner, Sweet: 294
+Butter, Ghee, Milk, Panner, Yougurt: 277
+Butter, Coffee Powder, Ghee, Lassi, Milk: 274
+Bread, Cheese, Milk, Sweet: 557
+Bread, Butter, Coffee Powder, Sugar, Tea Powder: 273
+Sugar, Tea Powder: 2473
+Coffee Powder, Ghee, Panner, Sugar, Tea Powder: 265
+Butter, Cheese, Coffee Powder, Sugar, Sweet: 254
+Bread, Ghee, Lassi, Tea Powder, Yougurt: 256
+Butter, Coffee Powder, Panner, Sugar, Sweet: 263
+Bread, Cheese, Lassi, Milk, Yougurt: 270
+Bread, Coffee Powder, Ghee: 1206
+Ghee, Milk, Sugar, Sweet: 557
+Butter, Cheese, Lassi, Panner: 561
+Cheese, Tea Powder, Yougurt: 1160
+Bread, Butter, Milk, Sweet, Yougurt: 262
+Bread, Lassi, Panner, Sweet, Tea Powder: 296
+Bread, Butter, Coffee Powder, Tea Powder, Yougurt: 272
+Butter, Ghee, Milk, Sugar, Sweet: 275
+Tea Powder, Yougurt: 2486
+Bread, Butter, Lassi, Sugar, Yougurt: 264
+Milk, Panner, Sweet: 1178
+Coffee Powder, Ghee, Panner, Tea Powder, Yougurt: 259
+Cheese, Ghee, Lassi, Milk, Sugar: 265
+Bread, Coffee Powder, Milk, Panner, Sugar: 284
+Cheese, Coffee Powder, Sweet, Tea Powder: 517
+Ghee, Lassi, Sugar, Sweet, Yougurt: 264
+Cheese, Coffee Powder, Ghee, Milk, Yougurt: 289
+Bread, Cheese, Milk, Panner, Tea Powder: 253
+Cheese, Lassi, Milk, Panner: 564
+Cheese, Lassi, Milk, Sweet, Yougurt: 267
+Bread, Butter, Cheese, Lassi, Milk: 255
+Bread, Butter, Panner, Sugar: 560
+Coffee Powder, Lassi, Milk, Panner, Sweet: 289
+Coffee Powder, Ghee, Milk, Panner, Yougurt: 266
+Bread, Cheese, Coffee Powder, Ghee, Panner: 283
+Bread, Sugar, Tea Powder, Yougurt: 564
+Bread, Butter, Cheese, Sugar: 548
+Bread, Butter, Ghee, Milk, Panner: 260
+Bread, Butter, Ghee, Sweet: 538
+Bread, Sugar: 2479
+Coffee Powder, Ghee: 2578
+Ghee, Milk, Sweet, Tea Powder: 550
+Cheese, Ghee, Lassi, Sweet: 553
+Bread, Ghee, Yougurt: 1163
+Bread, Butter, Cheese, Coffee Powder, Lassi: 262
+Butter, Cheese, Lassi, Milk, Panner: 261
+Ghee, Lassi, Sugar, Tea Powder: 568
+Butter, Coffee Powder, Ghee, Tea Powder: 573
+Cheese, Coffee Powder, Milk, Tea Powder: 512
+Lassi, Panner, Sugar, Sweet: 605
+Cheese, Lassi, Sweet, Yougurt: 586
+Bread, Panner, Sweet, Tea Powder: 565
+Bread, Butter, Sugar, Sweet: 578
+Bread, Butter, Ghee, Lassi, Tea Powder: 256
+Butter, Ghee, Lassi: 1206
+Coffee Powder, Lassi, Panner, Yougurt: 580
+Bread, Coffee Powder, Lassi, Sweet, Tea Powder: 273
+Ghee, Panner, Sweet: 1169
+Bread, Coffee Powder, Panner, Sweet, Yougurt: 286
+Butter, Ghee, Milk, Sweet, Tea Powder: 255
+Bread, Coffee Powder, Ghee, Sugar: 567
+Bread, Coffee Powder, Ghee, Panner, Sugar: 280
+Bread, Sugar, Yougurt: 1166
+Butter, Lassi, Panner, Sugar, Sweet: 304
+Butter, Ghee, Lassi, Sugar, Tea Powder: 266
+Butter, Coffee Powder, Sugar, Tea Powder: 569
+Lassi, Panner, Tea Powder: 1172
+Cheese, Ghee, Sugar, Tea Powder, Yougurt: 251
+Butter, Cheese, Lassi, Sweet, Yougurt: 273
+Lassi, Sugar, Tea Powder, Yougurt: 552
+Ghee, Lassi, Tea Powder, Yougurt: 527
+Cheese, Lassi, Milk, Yougurt: 555
+Bread, Ghee, Lassi, Milk, Sweet: 288
+Lassi, Milk, Sugar: 1211
+Bread, Cheese, Coffee Powder, Ghee, Yougurt: 285
+Bread, Cheese, Ghee, Milk, Sugar: 262
+Butter, Coffee Powder, Lassi, Panner, Yougurt: 274
+Bread, Coffee Powder, Ghee, Milk, Sweet: 265
+Bread, Butter, Ghee, Milk, Yougurt: 256
+Cheese, Milk, Sweet: 1153
+Bread, Coffee Powder, Lassi, Milk, Tea Powder: 255
+Bread, Milk, Panner, Sugar, Tea Powder: 267
+Bread, Butter, Cheese, Ghee, Tea Powder: 253
+Butter, Lassi, Sugar, Tea Powder, Yougurt: 252
+Butter, Milk, Sweet, Yougurt: 569
+Lassi, Panner, Sweet, Tea Powder: 624
+Bread, Cheese, Coffee Powder, Sugar: 564
+Butter, Coffee Powder, Tea Powder, Yougurt: 573
+Butter, Lassi, Sugar, Yougurt: 586
+Bread, Butter, Coffee Powder, Milk, Sweet: 263
+Coffee Powder, Milk, Panner, Sugar: 575
+Butter, Panner: 2483
+Bread, Cheese, Coffee Powder, Sugar, Yougurt: 261
+Butter, Cheese, Lassi, Milk: 548
+Cheese, Coffee Powder, Ghee, Panner: 563
+Bread, Butter, Sugar: 1184
+Bread, Cheese, Lassi, Panner, Sweet: 281
+Butter, Ghee, Milk, Panner: 552
+Bread, Coffee Powder, Lassi, Panner: 609
+Butter, Lassi, Panner, Sweet, Tea Powder: 285
+Coffee Powder, Milk, Panner: 1155
+Bread, Milk, Panner, Tea Powder, Yougurt: 261
+Bread, Cheese, Ghee, Lassi, Panner: 275
+Butter, Coffee Powder, Milk, Panner, Sugar: 267
+Bread, Ghee, Milk, Sugar, Yougurt: 264
+Bread, Lassi, Milk, Sugar, Sweet: 280
+Butter, Cheese, Coffee Powder, Lassi: 552
+Bread, Milk, Panner, Yougurt: 572
+Butter, Cheese, Coffee Powder, Ghee, Panner: 255
+Sugar, Tea Powder, Yougurt: 1189
+Butter, Cheese, Sugar: 1174
+Bread, Butter, Milk, Tea Powder: 530
+Bread, Cheese, Coffee Powder, Ghee, Milk: 274
+Butter, Ghee, Sweet: 1173
+Ghee, Lassi, Panner, Sugar: 587
+Lassi, Milk, Sugar, Tea Powder, Yougurt: 263
+Butter, Ghee, Lassi, Tea Powder: 555
+Butter, Ghee, Sweet, Yougurt: 551
+Coffee Powder, Lassi, Sugar, Tea Powder, Yougurt: 262
+Bread, Butter, Cheese, Tea Powder, Yougurt: 260
+Bread, Cheese, Coffee Powder, Milk: 580
+Coffee Powder, Lassi, Sweet, Tea Powder: 587
+Bread, Cheese, Milk, Panner: 586
+Coffee Powder, Ghee, Panner, Sugar: 554
+Bread, Butter, Coffee Powder, Yougurt: 563
+Coffee Powder, Ghee, Milk, Sugar, Tea Powder: 270
+Bread, Lassi, Sweet: 1238
+Panner, Sweet, Tea Powder: 1168
+Bread, Butter, Milk, Panner, Sweet: 263
+Butter, Sugar, Sweet: 1249
+Ghee, Lassi, Milk, Sweet: 584
+Butter, Ghee, Lassi, Panner, Sugar: 283
+Cheese, Coffee Powder, Ghee, Yougurt: 585
+Cheese, Ghee, Milk, Sugar: 551
+Lassi, Milk, Panner, Sweet, Tea Powder: 296
+Bread, Milk, Sugar, Sweet: 572
+Coffee Powder, Ghee, Sugar: 1189
+Butter, Coffee Powder, Lassi, Sweet, Tea Powder: 259
+Coffee Powder, Ghee, Milk, Sweet: 552
+Butter, Ghee, Milk, Yougurt: 551
+Bread, Coffee Powder, Lassi, Yougurt: 551
+Cheese, Lassi, Milk, Panner, Sweet: 279
+Cheese, Ghee, Milk, Panner, Yougurt: 269
+Butter, Coffee Powder, Ghee, Panner, Sugar: 275
+Coffee Powder, Lassi, Milk, Tea Powder: 548
+Milk, Panner, Sugar, Tea Powder: 555
+Bread, Cheese, Ghee, Lassi, Yougurt: 274
+Butter, Cheese, Ghee, Tea Powder: 514
+Bread, Ghee, Panner, Yougurt: 569
+Bread, Lassi, Panner, Sugar, Yougurt: 259
+Butter, Ghee, Lassi, Milk, Sweet: 279
+Butter, Coffee Powder, Milk, Sweet: 558
+Butter, Cheese, Ghee, Milk, Sugar: 257
+Butter, Cheese, Coffee Powder, Ghee, Yougurt: 268
+Cheese, Coffee Powder, Sugar, Yougurt: 562
+Coffee Powder, Panner, Sugar, Yougurt: 574
+Lassi, Panner, Sugar, Sweet, Tea Powder: 291
+Bread, Cheese, Ghee, Sugar: 545
+Butter, Coffee Powder, Lassi, Milk, Tea Powder: 260
+Cheese, Lassi, Panner, Sweet: 600
+Bread, Butter, Ghee, Panner: 568
+Butter, Cheese, Sugar, Tea Powder: 523
+Lassi, Sweet: 2576
+Coffee Powder, Ghee, Sugar, Sweet, Yougurt: 255
+Ghee, Sweet, Tea Powder, Yougurt: 501
+Butter, Cheese, Coffee Powder, Sweet: 536
+Milk, Panner, Tea Powder, Yougurt: 526
+Coffee Powder, Lassi, Panner, Sugar, Tea Powder: 276
+Cheese, Ghee, Lassi, Panner: 572
+Bread, Butter, Ghee, Panner, Sweet: 251
+Butter, Cheese, Coffee Powder, Sugar, Yougurt: 265
+Butter, Coffee Powder, Panner, Sugar, Yougurt: 289
+Ghee, Milk, Sugar, Yougurt: 569
+Lassi, Milk, Sugar, Sweet: 592
+Butter, Milk: 2491
+Coffee Powder, Ghee, Lassi, Panner, Sugar: 274
+Coffee Powder, Sugar: 2503
+Bread, Ghee, Sugar, Sweet: 553
+Bread, Milk, Sweet, Tea Powder: 561
+Cheese, Coffee Powder, Ghee, Milk: 567
+Butter, Cheese, Lassi, Panner, Sweet: 290
+Bread, Panner, Sugar, Yougurt: 556
+Coffee Powder, Lassi, Panner: 1198
+Bread, Lassi, Sugar, Tea Powder: 537
+Bread, Butter, Lassi, Milk, Sugar: 278
+Butter, Cheese, Ghee, Lassi, Panner: 262
+Bread, Coffee Powder, Milk, Sweet, Yougurt: 269
+Butter, Cheese, Tea Powder, Yougurt: 535
+Bread, Cheese, Ghee, Lassi, Milk: 272
+Coffee Powder, Ghee, Lassi, Milk, Sweet: 272
+Butter, Ghee, Milk, Sugar, Yougurt: 275
+Butter, Lassi, Milk, Sugar, Sweet: 300
+Milk, Panner, Yougurt: 1173
+Bread, Butter, Lassi, Tea Powder: 521
+Panner, Sugar, Tea Powder, Yougurt: 562
+Bread, Butter, Sweet, Yougurt: 552
+Butter, Milk, Tea Powder: 1120
+Bread, Cheese, Panner, Sugar, Sweet: 258
+Bread, Ghee, Lassi, Milk, Panner: 288
+Butter, Milk, Panner, Sweet: 561
+Coffee Powder, Lassi, Milk, Panner, Yougurt: 282
+Bread, Lassi, Tea Powder, Yougurt: 536
+Cheese, Coffee Powder, Milk: 1177
+Bread, Coffee Powder, Ghee, Milk, Panner: 265
+Cheese, Milk, Panner: 1165
+Bread, Butter, Ghee, Yougurt: 551
+Butter, Panner, Sugar, Tea Powder, Yougurt: 265
+Lassi, Milk, Sweet, Tea Powder: 583
+Cheese, Ghee, Lassi, Yougurt: 565
+Lassi, Panner, Sugar, Yougurt: 570
+Bread, Ghee, Sweet, Tea Powder: 536
+Bread, Panner, Tea Powder: 1165
+Tea Powder: 5383
+Milk, Sugar, Sweet: 1214
+Coffee Powder, Lassi, Yougurt: 1179
+Bread, Milk, Sugar: 1203
+Bread, Coffee Powder, Ghee, Lassi, Tea Powder: 279
+Bread, Coffee Powder, Ghee, Sweet, Yougurt: 260
+Cheese, Coffee Powder, Lassi, Panner, Yougurt: 276
+Bread, Butter, Sugar, Tea Powder, Yougurt: 272
+Coffee Powder, Lassi, Milk, Sugar, Sweet: 280
+Butter, Lassi, Milk, Sweet, Tea Powder: 273
+Cheese, Sugar, Sweet, Tea Powder: 536
+Ghee, Panner, Yougurt: 1179
+Butter, Lassi, Panner, Sugar, Yougurt: 280
+Butter, Ghee, Panner, Sweet: 563
+Bread, Ghee, Milk, Tea Powder: 537
+Ghee, Lassi, Milk, Panner, Tea Powder: 276
+Bread, Ghee, Lassi, Milk, Yougurt: 264
+Butter, Lassi, Panner, Tea Powder: 535
+Cheese, Ghee, Sugar: 1129
+Bread, Butter, Panner, Sweet, Tea Powder: 254
+Bread, Cheese, Lassi, Yougurt: 571
+Bread, Cheese, Coffee Powder, Panner, Tea Powder: 252
+Butter, Ghee, Panner: 1217
+Butter, Cheese, Sugar, Sweet, Tea Powder: 255
+Bread, Coffee Powder, Ghee, Milk, Yougurt: 272
+Coffee Powder, Panner, Sugar, Tea Powder, Yougurt: 270
+Bread, Milk, Sugar, Sweet, Yougurt: 267
+Bread, Butter, Ghee, Milk: 557
+Butter, Lassi, Milk, Sugar: 596
+Cheese, Lassi, Panner, Sweet, Tea Powder: 277
+Bread, Butter, Cheese, Lassi: 526
+Coffee Powder, Milk, Sweet, Yougurt: 572
+Bread, Butter, Coffee Powder, Ghee, Sugar: 267
+Cheese, Ghee, Lassi, Milk: 558
+Butter, Cheese, Milk, Sweet: 538
+Coffee Powder, Lassi, Sugar, Yougurt: 562
+Cheese, Coffee Powder, Milk, Panner, Sugar: 276
+Cheese, Tea Powder: 2391
+Ghee, Sugar, Sweet: 1173
+Bread, Lassi: 2506
+Milk, Sweet, Tea Powder: 1187
+Milk, Sugar: 2563
+Cheese, Panner, Sugar, Sweet: 547
+Lassi, Sugar, Tea Powder: 1180
+Bread, Ghee, Milk, Panner, Tea Powder: 256
+Ghee, Lassi, Milk, Panner: 587
+Coffee Powder, Lassi, Milk, Sweet, Tea Powder: 266
+Bread, Cheese, Lassi, Panner, Yougurt: 279
+Lassi, Milk, Panner, Sugar, Yougurt: 273
+Butter, Coffee Powder, Milk, Sweet, Yougurt: 286
+Coffee Powder, Ghee, Milk, Panner: 546
+Bread, Lassi, Milk, Sweet: 592
+Butter, Cheese, Ghee, Lassi, Milk: 259
+Butter, Coffee Powder, Lassi, Sugar, Yougurt: 279
+Bread, Cheese, Panner: 1224
+Bread, Lassi, Milk, Sugar, Yougurt: 260
+Butter, Cheese, Panner, Sugar, Sweet: 265
+Bread, Coffee Powder, Ghee, Lassi: 593
+Butter, Ghee, Lassi, Milk, Panner: 269
+Butter, Coffee Powder, Milk, Panner: 523
+Cheese, Coffee Powder, Milk, Sugar, Sweet: 261
+Ghee, Lassi, Sweet, Yougurt: 549
+Lassi, Tea Powder, Yougurt: 1130
+Butter, Ghee, Yougurt: 1195
+Cheese, Ghee, Lassi, Panner, Sugar: 273
+Bread, Sugar, Sweet, Tea Powder, Yougurt: 253
+Coffee Powder, Ghee, Lassi, Tea Powder: 569
+Coffee Powder, Ghee, Sweet, Yougurt: 552
+Butter, Sugar, Tea Powder, Yougurt: 575
+Lassi, Panner: 2497
+Ghee, Sweet, Tea Powder: 1149
+Bread, Cheese, Lassi, Sugar, Sweet: 263
+Butter, Cheese, Coffee Powder, Panner: 546
+Bread, Cheese, Milk, Panner, Sugar: 278
+Bread, Cheese, Coffee Powder: 1213
+Butter, Ghee, Lassi, Sweet, Yougurt: 266
+Cheese, Ghee, Lassi, Milk, Sweet: 254
+Bread, Cheese, Coffee Powder, Lassi: 580
+Bread, Coffee Powder, Milk, Panner, Sweet: 273
+Bread, Butter, Milk, Panner, Yougurt: 263
+Bread, Sweet, Tea Powder, Yougurt: 555
+Butter, Sugar, Yougurt: 1235
+Ghee, Lassi, Milk, Yougurt: 558
+Butter, Coffee Powder, Ghee, Lassi, Tea Powder: 262
+Butter, Coffee Powder, Ghee, Sweet, Yougurt: 261
+Bread, Butter, Panner, Sweet: 570
+Bread, Milk, Sugar, Yougurt: 563
+Cheese, Coffee Powder, Panner, Tea Powder: 509
+Coffee Powder, Ghee, Milk, Yougurt: 597
+Bread, Butter, Cheese, Sweet: 536
+Cheese, Lassi, Milk, Panner, Yougurt: 280
+Milk, Sugar, Sweet, Yougurt: 573
+Bread, Butter, Lassi: 1149
+Bread, Butter, Cheese, Coffee Powder, Milk: 263
+Ghee, Milk, Tea Powder: 1150
+Butter, Coffee Powder, Ghee, Sugar: 586
+Bread, Butter, Cheese, Milk, Panner: 262
+Coffee Powder, Ghee, Lassi, Milk, Panner: 281
+Bread, Sweet: 2539
+Bread, Cheese, Yougurt: 1203
+Butter, Ghee, Lassi, Milk, Yougurt: 259
+Cheese, Coffee Powder, Panner, Sugar, Yougurt: 266
+Cheese, Lassi, Yougurt: 1188
+Ghee, Milk, Panner, Tea Powder: 528
+Butter, Coffee Powder, Ghee, Milk, Yougurt: 278
+Butter, Ghee, Milk: 1176
+Bread, Cheese, Coffee Powder, Lassi, Sugar: 261
+Butter, Milk, Sugar, Sweet, Yougurt: 280
+Bread, Coffee Powder, Panner, Sugar: 584
+Butter, Cheese, Lassi: 1150
+Bread, Butter, Milk, Sugar, Sweet: 283
+Cheese, Lassi, Panner, Yougurt: 583
+Bread, Cheese, Panner, Sweet, Yougurt: 279
+Bread, Butter, Coffee Powder, Lassi, Yougurt: 261
+Lassi, Yougurt: 2466
+Bread, Cheese, Ghee, Panner, Sugar: 269
+Lassi, Sweet, Tea Powder, Yougurt: 548
+Coffee Powder, Ghee, Lassi, Sweet, Yougurt: 270
+Butter, Panner, Sugar, Tea Powder: 532
+Bread, Coffee Powder, Ghee, Sweet: 579
+Bread, Coffee Powder, Ghee, Panner, Sweet: 277
+Bread, Butter, Ghee, Panner, Yougurt: 269
+Bread, Lassi, Milk: 1195
+Cheese, Lassi, Milk, Sugar, Sweet: 261
+Lassi, Milk, Sugar, Yougurt: 568
+Butter, Ghee, Milk, Panner, Tea Powder: 254
+Bread, Coffee Powder, Lassi, Panner, Tea Powder: 280
+Bread, Ghee, Sugar, Yougurt: 552
+Butter, Cheese, Lassi, Panner, Yougurt: 265
+Lassi, Milk, Sweet: 1230
+Sugar, Sweet, Tea Powder, Yougurt: 555
+Bread, Cheese, Ghee, Milk, Sweet: 260
+Bread, Coffee Powder, Lassi, Milk, Sugar: 273
+Bread, Ghee, Panner, Tea Powder, Yougurt: 254
+Butter, Lassi, Sweet, Tea Powder, Yougurt: 253
+Coffee Powder, Ghee, Lassi: 1233
+Coffee Powder, Ghee, Lassi, Milk, Yougurt: 289
+Cheese, Panner, Sugar, Tea Powder, Yougurt: 259
+Butter, Lassi, Milk, Sugar, Yougurt: 282
+Cheese, Lassi, Sugar, Sweet: 558
+Bread, Cheese, Coffee Powder, Sweet: 568
+Cheese, Milk, Panner, Sugar: 566
+Coffee Powder, Milk, Sugar, Sweet, Yougurt: 274
+Coffee Powder, Milk, Panner, Sweet: 550
+Butter, Milk, Panner, Yougurt: 563
+Butter, Sugar, Sweet, Tea Powder, Yougurt: 270
+Bread, Butter, Ghee, Sugar, Sweet: 260
+Ghee, Lassi, Sugar, Sweet, Tea Powder: 265
+Bread, Butter, Sweet: 1177
+Lassi, Milk: 2539
+Butter, Cheese, Lassi, Sugar, Sweet: 278
+Butter, Cheese, Milk, Panner, Sugar: 255
+Bread, Cheese, Ghee, Lassi: 573
+Butter, Cheese, Coffee Powder, Milk: 545
+Butter, Cheese, Milk, Panner: 538
+Sweet, Tea Powder, Yougurt: 1158
+Milk, Sugar, Yougurt: 1199
+Lassi, Milk, Sweet, Tea Powder, Yougurt: 255
+Butter, Cheese, Sweet: 1186
+Coffee Powder, Lassi, Sweet, Tea Powder, Yougurt: 261
+Bread, Coffee Powder, Sugar, Tea Powder, Yougurt: 279
+Coffee Powder, Lassi: 2512
+Cheese, Coffee Powder, Lassi, Sugar: 544
+Bread, Ghee, Tea Powder: 1138
+Butter, Milk, Sugar, Sweet: 607
+Coffee Powder, Lassi, Milk, Sugar, Yougurt: 276
+Bread, Lassi, Milk, Panner: 593
+Ghee, Lassi, Panner, Sweet: 600
+Cheese, Panner, Sweet, Yougurt: 593
+Cheese, Lassi, Sweet, Tea Powder: 545
+Butter, Coffee Powder, Lassi, Yougurt: 580
+Cheese, Ghee, Panner, Sugar: 544
+Coffee Powder, Ghee, Panner, Sweet: 555
+Butter, Ghee, Panner, Yougurt: 603
+Coffee Powder, Sugar, Sweet, Tea Powder, Yougurt: 263
+Coffee Powder, Lassi, Panner, Tea Powder: 558
+Bread, Coffee Powder, Panner, Sweet, Tea Powder: 259
+Coffee Powder, Panner, Sugar: 1183
+Bread, Sugar, Tea Powder: 1148
+Butter, Ghee, Lassi, Panner, Sweet: 278
+Butter, Cheese, Panner, Sweet, Yougurt: 288
+Butter, Cheese, Lassi, Sweet, Tea Powder: 253
+Cheese, Ghee, Milk, Sweet: 535
+Coffee Powder, Lassi, Milk, Sugar: 590
+Butter, Cheese, Ghee, Sugar: 526
+Coffee Powder, Ghee, Sweet: 1178
+Cheese, Coffee Powder, Milk, Sweet, Yougurt: 254
+Ghee, Panner, Tea Powder, Yougurt: 536
+Cheese, Lassi, Milk, Tea Powder: 506
+Butter, Coffee Powder, Ghee, Panner, Sweet: 251
+Bread, Cheese, Coffee Powder, Ghee, Tea Powder: 251
+Ghee, Sugar, Yougurt: 1179
+Bread, Butter, Ghee, Milk, Tea Powder: 256
+Cheese, Ghee, Lassi, Milk, Panner: 271
+Bread, Cheese, Panner, Sugar: 573
+Butter, Ghee, Sugar, Sweet: 583
+Butter, Coffee Powder, Lassi, Milk, Sugar: 293
+Butter, Milk, Sweet, Tea Powder: 554
+Bread, Tea Powder, Yougurt: 1187
+Butter, Lassi, Sugar, Tea Powder: 546
+Coffee Powder, Milk, Panner, Sweet, Yougurt: 262
+Bread, Butter, Cheese, Panner: 571
+Bread, Cheese, Ghee, Sweet: 554
+Bread, Cheese, Coffee Powder, Sugar, Tea Powder: 252
+Cheese, Ghee, Lassi, Sweet, Yougurt: 263
+Coffee Powder, Ghee, Lassi, Panner, Sweet: 286
+Coffee Powder, Sweet: 2496
+Cheese, Coffee Powder, Ghee, Sweet, Yougurt: 253
+Coffee Powder, Sugar, Tea Powder, Yougurt: 579
+Ghee, Lassi, Milk, Tea Powder, Yougurt: 255
+Bread, Ghee, Milk, Sugar, Tea Powder: 257
+Butter, Lassi, Tea Powder, Yougurt: 522
+Cheese, Ghee, Lassi: 1171
+Ghee, Milk, Sugar, Tea Powder, Yougurt: 273
+Bread, Cheese, Milk, Sweet, Yougurt: 264
+Bread, Butter, Cheese, Coffee Powder: 543
+Bread, Milk, Panner, Tea Powder: 559
+Bread, Butter, Lassi, Milk, Sweet: 278
+Panner, Sweet, Tea Powder, Yougurt: 534
+Bread, Butter, Lassi, Sugar: 567
+Milk, Panner, Sugar, Tea Powder, Yougurt: 257
+Bread, Cheese, Coffee Powder, Tea Powder, Yougurt: 266
+Bread, Cheese, Lassi, Sugar, Yougurt: 268
+Bread, Butter, Coffee Powder, Ghee, Lassi: 265
+Cheese, Ghee, Lassi, Milk, Yougurt: 254
+Bread, Coffee Powder, Milk, Panner, Yougurt: 276
+Butter, Ghee, Sweet, Tea Powder: 537
+Bread, Coffee Powder, Milk, Panner: 576
+Butter, Coffee Powder, Sugar, Tea Powder, Yougurt: 286
+Coffee Powder, Panner, Sweet, Tea Powder: 546
+Bread, Butter, Panner, Yougurt: 567
+Lassi, Milk, Panner: 1205
+Bread, Cheese, Ghee, Milk, Panner: 266
+Bread, Butter, Coffee Powder, Tea Powder: 536
+Butter, Panner, Sweet, Tea Powder, Yougurt: 257
+Cheese, Milk, Sugar, Sweet, Yougurt: 266
+Bread, Ghee, Milk, Tea Powder, Yougurt: 252
+Cheese, Coffee Powder, Ghee, Tea Powder: 513
+Bread, Cheese, Coffee Powder, Panner: 586
+Butter, Ghee, Milk, Tea Powder: 550
+Bread, Coffee Powder, Lassi, Tea Powder: 552
+Bread, Coffee Powder, Sweet, Yougurt: 572
+Bread, Butter, Sweet, Tea Powder, Yougurt: 257
+Bread, Ghee, Panner, Tea Powder: 557
+Bread, Coffee Powder, Milk, Sugar, Sweet: 268
+Bread, Butter, Milk, Sugar, Yougurt: 274
+Butter, Cheese, Lassi, Yougurt: 545
+Bread, Lassi, Panner, Sugar, Tea Powder: 259
+Bread, Milk, Sweet: 1204
+Bread, Butter, Panner: 1174
+Cheese, Lassi, Sweet, Tea Powder, Yougurt: 256
+Bread, Ghee, Lassi, Panner, Sugar: 295
+Cheese, Coffee Powder, Sugar, Tea Powder: 526
+Bread, Coffee Powder, Ghee, Panner, Yougurt: 272
+Cheese, Lassi, Milk, Sugar, Yougurt: 263
+Ghee, Lassi, Milk, Panner, Sugar: 280
+Cheese, Panner, Sugar: 1172
+Bread, Coffee Powder, Milk, Yougurt: 585
+Coffee Powder, Panner, Sweet, Tea Powder, Yougurt: 251
+Cheese, Sugar, Sweet, Tea Powder, Yougurt: 258
+Coffee Powder, Ghee, Sugar, Sweet, Tea Powder: 251
+Butter, Cheese, Panner: 1183
+Bread, Cheese, Ghee, Milk, Yougurt: 272
+Cheese, Ghee, Sweet: 1140
+Bread, Butter, Cheese, Milk: 553
+Bread, Butter, Coffee Powder, Panner, Sugar: 266
+Panner, Sugar: 2505
+Ghee, Milk, Sugar, Tea Powder: 571
+Bread, Butter, Coffee Powder: 1157
+Cheese, Milk, Sweet, Yougurt: 549
+Butter, Lassi, Milk, Sweet: 607
+Cheese, Coffee Powder, Tea Powder, Yougurt: 555
+Bread, Milk: 2517
+Cheese, Lassi, Sugar, Yougurt: 560
+Bread, Lassi, Milk, Panner, Yougurt: 263
+Bread, Ghee, Lassi, Sugar, Sweet: 276
+Bread, Cheese, Coffee Powder, Yougurt: 577
+Bread, Panner, Sugar, Tea Powder: 549
+Butter, Coffee Powder, Ghee, Lassi: 592
+Coffee Powder, Milk, Panner, Yougurt: 566
+Bread, Coffee Powder, Ghee, Sugar, Sweet: 264
+Bread, Butter, Ghee, Sugar, Yougurt: 265
+Bread, Coffee Powder, Milk, Sweet, Tea Powder: 256
+Cheese, Sugar, Sweet: 1136
+Milk, Sweet: 2512
+Bread, Coffee Powder, Lassi, Sugar, Tea Powder: 263
+Bread, Coffee Powder, Panner, Sugar, Yougurt: 268
+Butter, Ghee, Milk, Sugar, Tea Powder: 272
+Butter, Cheese, Coffee Powder: 1158
+Milk, Panner, Tea Powder: 1113
+Butter, Lassi, Sugar: 1203
+Cheese, Ghee, Milk, Panner: 548
+Bread, Butter, Sweet, Tea Powder: 534
+Butter, Cheese, Coffee Powder, Tea Powder, Yougurt: 260
+Ghee, Lassi, Panner, Sweet, Yougurt: 271
+Butter, Cheese, Lassi, Sugar, Yougurt: 261
+Coffee Powder, Ghee, Panner: 1192
+Ghee, Milk, Tea Powder, Yougurt: 540
+Bread, Coffee Powder, Ghee, Milk: 555
+Cheese, Milk, Panner, Sweet, Yougurt: 277
+Butter, Coffee Powder, Milk, Panner, Yougurt: 265
+Bread, Panner, Tea Powder, Yougurt: 555
+Butter, Panner, Yougurt: 1203
+Bread, Butter, Ghee, Tea Powder: 551
+Butter, Coffee Powder, Tea Powder: 1142
+Butter, Cheese, Yougurt: 1183
+Butter, Sweet, Tea Powder, Yougurt: 550
+Cheese, Ghee, Lassi, Tea Powder: 508
+Ghee, Sugar, Sweet, Yougurt: 542
+Butter, Coffee Powder: 2502
+Cheese, Ghee, Sweet, Yougurt: 546
+Coffee Powder, Milk, Sugar, Sweet: 571
+Cheese, Ghee, Lassi, Panner, Sweet: 276
+Butter, Milk, Sugar, Yougurt: 586
+Lassi, Panner, Sugar, Tea Powder: 562
+Bread, Cheese, Ghee, Panner: 573
+Bread, Ghee, Panner, Sweet, Yougurt: 257
+Cheese, Coffee Powder, Panner: 1171
+Cheese, Coffee Powder, Ghee, Panner, Sweet: 256
+Coffee Powder, Lassi, Tea Powder: 1163
+Coffee Powder, Ghee, Panner, Yougurt: 576
+Coffee Powder, Sweet, Yougurt: 1185
+Bread, Cheese, Milk, Panner, Sweet: 273
+Bread, Panner, Sugar, Tea Powder, Yougurt: 265
+Ghee, Panner, Tea Powder: 1139
+Butter, Ghee, Sugar, Sweet, Yougurt: 269
+Coffee Powder, Panner: 2482
+Butter, Yougurt: 2529
+Butter, Coffee Powder, Milk, Sugar, Sweet: 291
+Cheese, Coffee Powder, Lassi, Milk, Sugar: 265
+Cheese, Ghee, Milk, Yougurt: 556
+Bread, Ghee, Lassi, Sugar: 574
+Bread, Butter, Milk: 1178
+Butter, Coffee Powder, Panner, Sugar: 571
+Lassi, Panner, Tea Powder, Yougurt: 542
+Bread, Coffee Powder, Sugar: 1181
+Bread, Butter, Lassi, Milk, Panner: 269
+Butter, Coffee Powder, Ghee, Panner, Yougurt: 293
+Bread, Ghee, Lassi, Milk, Tea Powder: 267
+Bread, Cheese, Lassi, Tea Powder: 520
+Lassi, Milk, Panner, Yougurt: 576
+Coffee Powder, Milk, Yougurt: 1237
+Butter, Coffee Powder, Ghee, Sweet: 543
+Bread, Cheese, Sweet, Yougurt: 555
+Ghee, Lassi, Sugar, Sweet: 571
+Bread, Coffee Powder, Ghee, Milk, Tea Powder: 258
+Bread, Lassi, Milk, Sweet, Tea Powder: 272
+Bread, Milk, Sugar, Sweet, Tea Powder: 266
+Coffee Powder, Ghee, Milk, Tea Powder, Yougurt: 271
+Butter, Cheese, Ghee, Milk, Yougurt: 252
+Coffee Powder, Ghee, Sugar, Sweet: 551
+Butter, Ghee, Sugar, Yougurt: 586
+Butter, Cheese, Milk: 1140
+Coffee Powder, Milk, Sweet, Tea Powder: 559
+Butter, Lassi, Panner, Tea Powder, Yougurt: 254
+Coffee Powder, Lassi, Sugar, Tea Powder: 577
+Bread, Cheese, Coffee Powder, Lassi, Sweet: 274
+Ghee, Milk, Panner, Sugar, Yougurt: 268
+Bread, Coffee Powder, Panner, Sweet: 583
+Cheese, Coffee Powder, Yougurt: 1207
+Butter, Lassi, Milk, Panner, Yougurt: 272
+Panner, Sugar, Tea Powder: 1153
+Butter, Ghee, Lassi, Sugar, Sweet: 281
+Butter, Coffee Powder, Sugar, Sweet: 596
+Bread, Cheese, Ghee, Panner, Sweet: 257
+Bread, Cheese, Milk, Yougurt: 578
+Bread, Butter, Coffee Powder, Ghee: 540
+Bread, Cheese, Lassi, Panner, Tea Powder: 254
+Butter, Coffee Powder, Ghee, Sugar, Sweet: 270
+Lassi, Milk, Panner, Sugar, Tea Powder: 274
+Butter, Coffee Powder, Milk, Sweet, Tea Powder: 266
+Coffee Powder, Ghee, Lassi, Panner, Yougurt: 289
+Milk, Sugar, Sweet, Tea Powder, Yougurt: 272
+Coffee Powder, Yougurt: 2555
+Butter, Coffee Powder, Lassi, Sugar, Tea Powder: 266
+Butter, Sweet, Tea Powder: 1172
+Bread, Butter, Cheese, Panner, Sugar: 261
+Cheese, Coffee Powder, Sugar, Tea Powder, Yougurt: 256
+Bread, Coffee Powder, Milk: 1191
+Coffee Powder, Lassi, Tea Powder, Yougurt: 543
+Bread, Milk, Panner: 1217
+Cheese, Panner, Sweet, Tea Powder, Yougurt: 260
+Coffee Powder, Ghee, Milk: 1197
+Bread, Coffee Powder, Lassi, Milk, Sweet: 273
+Ghee, Panner, Sweet, Yougurt: 542
+Panner, Tea Powder, Yougurt: 1143
+Butter, Cheese, Ghee, Lassi: 543
+Butter, Ghee, Tea Powder: 1158
+Coffee Powder, Ghee, Sweet, Tea Powder: 533
+Lassi, Milk, Panner, Tea Powder, Yougurt: 253
+Cheese, Milk, Panner, Sweet: 551
+Coffee Powder, Lassi, Panner, Tea Powder, Yougurt: 262
+Butter, Coffee Powder, Lassi, Tea Powder, Yougurt: 253
+Cheese, Ghee, Panner: 1168
+Coffee Powder, Ghee, Lassi, Sugar, Sweet: 270
+Butter, Ghee, Panner, Sweet, Yougurt: 273
+Bread, Cheese, Ghee, Milk: 565
+Coffee Powder, Ghee, Milk, Panner, Sugar: 251
+Butter, Lassi, Milk, Panner: 567
+Ghee, Lassi, Milk, Tea Powder: 572
+Bread, Butter, Coffee Powder, Ghee, Panner: 256
+Butter, Cheese, Milk, Panner, Sweet: 252
+Bread, Milk, Sugar, Tea Powder: 571
+Coffee Powder, Ghee, Milk, Tea Powder: 552
+Bread, Coffee Powder, Sweet, Tea Powder, Yougurt: 263
+Milk, Sugar, Sweet, Tea Powder: 593
+Lassi, Panner, Sugar, Tea Powder, Yougurt: 253
+Coffee Powder, Milk: 2518
+Ghee, Lassi, Sugar: 1193
+Bread, Ghee, Sugar: 1178
+Milk, Panner: 2483
+Bread, Lassi, Sugar, Sweet, Yougurt: 268
+Butter, Cheese: 2485
+Bread, Cheese, Sugar, Tea Powder, Yougurt: 261
+Bread, Ghee, Lassi, Sweet, Yougurt: 254
+Bread, Coffee Powder, Milk, Sugar, Yougurt: 275
+Bread, Cheese, Tea Powder: 1131
+Butter, Ghee, Lassi, Milk, Tea Powder: 271
+Cheese, Coffee Powder, Lassi, Sweet: 571
+Ghee, Lassi, Milk, Sweet, Yougurt: 261
+Bread, Butter, Sugar, Yougurt: 577
+Cheese, Lassi, Tea Powder: 1100
+Cheese, Sweet, Yougurt: 1191
+Butter, Coffee Powder, Ghee, Milk, Tea Powder: 262
+Cheese, Ghee, Panner, Sweet: 548
+Butter, Milk, Sugar, Sweet, Tea Powder: 280
+Bread, Butter, Cheese, Coffee Powder, Panner: 258
+Bread, Milk, Tea Powder, Yougurt: 566
+Cheese, Lassi, Panner, Tea Powder: 534
+Bread, Cheese, Panner, Sweet, Tea Powder: 259
+Bread, Butter, Coffee Powder, Lassi, Tea Powder: 251
+Lassi, Tea Powder: 2439
+Bread, Butter, Coffee Powder, Sweet, Yougurt: 257
+Sweet, Yougurt: 2478
+Coffee Powder, Ghee, Panner, Sweet, Yougurt: 268
+Coffee Powder, Ghee, Lassi, Sweet, Tea Powder: 273
+Butter, Cheese, Panner, Sugar: 560
+Coffee Powder, Panner, Sweet: 1175
+Butter, Cheese, Coffee Powder, Lassi, Sweet: 257
+Bread, Butter, Ghee, Panner, Tea Powder: 266
+Cheese, Lassi, Milk, Sugar: 552
+Lassi, Milk, Sugar, Tea Powder: 587
+Coffee Powder, Lassi, Milk, Sweet: 582
+Cheese, Coffee Powder, Panner, Tea Powder, Yougurt: 251
+Bread, Ghee, Sugar, Tea Powder: 546
+Milk, Panner, Sugar, Sweet: 572
+Butter, Cheese, Ghee, Sweet: 504
+Cheese, Milk, Yougurt: 1183
+Butter, Coffee Powder, Ghee: 1216
+Bread, Sugar, Sweet, Yougurt: 545
+Bread, Cheese, Coffee Powder, Milk, Sugar: 284
+Ghee, Sugar: 2516
+Cheese, Coffee Powder, Milk, Panner, Yougurt: 274
+Bread, Lassi, Panner, Sugar: 584
+Bread, Coffee Powder, Ghee, Sugar, Yougurt: 269
+Bread, Lassi, Panner: 1213
+Bread, Butter, Coffee Powder, Milk, Yougurt: 277
+Milk, Yougurt: 2513
+Butter, Cheese, Lassi, Milk, Sugar: 269
+Coffee Powder, Ghee, Lassi, Milk, Tea Powder: 269
+Butter, Lassi, Milk, Sugar, Tea Powder: 273
+Bread, Cheese, Panner, Sweet: 577
+Butter, Coffee Powder, Lassi, Milk, Sweet: 280
+Butter, Milk, Panner, Sugar, Sweet: 279
+Butter, Cheese, Sugar, Sweet: 557
+Coffee Powder, Milk, Sugar, Sweet, Tea Powder: 290
+Bread, Ghee, Tea Powder, Yougurt: 540
+Butter, Milk, Panner, Tea Powder: 498
+Bread, Lassi, Sweet, Tea Powder, Yougurt: 256
+Butter, Coffee Powder, Ghee, Panner: 579
+Bread, Butter, Cheese, Coffee Powder, Yougurt: 253
+Coffee Powder, Sweet, Tea Powder, Yougurt: 554
+Cheese, Ghee, Milk: 1162
+Lassi, Sugar, Sweet, Yougurt: 581
+Cheese, Sugar, Tea Powder, Yougurt: 550
+Coffee Powder, Milk, Sugar, Yougurt: 601
+Cheese, Ghee, Lassi, Panner, Yougurt: 278
+Bread, Cheese, Coffee Powder, Lassi, Panner: 292
+Milk, Sugar, Tea Powder: 1207
+Cheese, Coffee Powder, Ghee, Panner, Yougurt: 278
+Bread, Butter, Lassi, Sweet: 562
+Bread, Cheese, Milk, Panner, Yougurt: 285
+Butter, Coffee Powder, Sweet, Tea Powder, Yougurt: 263
+Bread, Butter, Panner, Tea Powder, Yougurt: 267
+Coffee Powder, Lassi, Milk, Sugar, Tea Powder: 285
+Bread, Lassi, Yougurt: 1149
+Butter, Lassi, Sugar, Sweet, Yougurt: 295
+Cheese, Panner, Sweet, Tea Powder: 543
+Butter, Coffee Powder, Lassi, Tea Powder: 540
+Butter, Coffee Powder, Milk, Sugar, Yougurt: 295
+Bread, Butter, Coffee Powder, Sugar: 570
+Butter, Coffee Powder, Sweet, Yougurt: 584
+Coffee Powder, Milk, Panner, Sugar, Sweet: 257
+Cheese, Lassi, Panner, Tea Powder, Yougurt: 262
+Butter, Ghee, Panner, Tea Powder: 569
+Bread, Coffee Powder, Lassi, Milk, Panner: 282
+Bread, Butter, Cheese, Ghee, Panner: 254
+Milk, Tea Powder, Yougurt: 1148
+Butter, Ghee, Milk, Sugar: 591
+Bread, Coffee Powder, Lassi, Sugar: 567
+Ghee, Lassi, Sugar, Yougurt: 571
+Butter, Cheese, Panner, Sweet, Tea Powder: 265
+Cheese, Coffee Powder, Milk, Sugar: 575
+Bread, Milk, Panner, Sweet, Yougurt: 269
+Coffee Powder, Lassi, Milk, Tea Powder, Yougurt: 255
+Coffee Powder, Ghee, Sugar, Yougurt: 571
+Butter, Coffee Powder, Milk, Yougurt: 587
+Bread, Cheese, Milk, Sugar, Sweet: 264
+Bread, Cheese, Coffee Powder, Lassi, Yougurt: 268
+Bread, Butter, Ghee, Lassi, Sugar: 275
+Ghee, Sugar, Tea Powder: 1152
+Sugar, Sweet, Yougurt: 1185
+Bread, Coffee Powder, Panner, Yougurt: 575
+Butter, Ghee, Lassi, Sugar, Yougurt: 282
+Bread, Cheese, Ghee, Panner, Yougurt: 273
+Bread, Ghee, Lassi, Panner, Sweet: 293
+Butter, Cheese, Coffee Powder, Milk, Sugar: 277
+Lassi, Milk, Sugar, Sweet, Yougurt: 271
+Lassi, Panner, Sugar: 1209
+Coffee Powder, Lassi, Sugar, Sweet, Yougurt: 275
+Butter, Coffee Powder, Ghee, Sugar, Yougurt: 289
+Butter, Cheese, Coffee Powder, Yougurt: 561
+Ghee, Lassi, Milk, Panner, Sweet: 288
+Coffee Powder, Milk, Panner, Sweet, Tea Powder: 257
+Cheese, Panner, Sweet: 1192
+Bread, Panner, Sugar, Sweet, Yougurt: 266
+Ghee, Tea Powder, Yougurt: 1129
+Cheese, Coffee Powder, Lassi, Panner: 570
+Cheese, Ghee, Panner, Sweet, Yougurt: 277
+Panner, Sweet: 2505
+Ghee: 5510
+Bread, Coffee Powder, Lassi: 1200
+Bread, Coffee Powder, Sugar, Sweet: 560
+Butter, Coffee Powder, Ghee, Milk: 551
+Bread, Cheese, Ghee: 1180
+Bread, Butter, Cheese, Milk, Yougurt: 267
+Cheese, Milk, Panner, Yougurt: 584
+Lassi, Sugar, Sweet: 1235
+Butter, Panner, Tea Powder, Yougurt: 555
+Bread, Cheese, Panner, Sugar, Yougurt: 263
+Coffee Powder, Ghee, Milk, Sweet, Yougurt: 266
+Butter, Cheese, Coffee Powder, Lassi, Panner: 271
+Coffee Powder, Ghee, Lassi, Sugar, Yougurt: 267
+Bread, Cheese, Coffee Powder, Lassi, Milk: 277
+Butter, Lassi, Sweet: 1247
+Bread, Coffee Powder, Milk, Panner, Tea Powder: 254
+Coffee Powder, Lassi, Milk, Panner: 567
+Lassi, Sugar, Sweet, Tea Powder, Yougurt: 252
+Butter, Cheese, Ghee, Panner: 546
+Butter, Cheese, Milk, Panner, Yougurt: 266
+Bread, Butter, Panner, Tea Powder: 532
+Butter, Coffee Powder, Sugar: 1211
+Cheese, Milk, Sugar, Sweet, Tea Powder: 264
+Milk, Panner, Sweet, Yougurt: 544
+Bread, Butter, Milk, Sugar: 586
+Bread, Cheese, Lassi, Tea Powder, Yougurt: 256
+Cheese, Milk, Sugar, Sweet: 559
+Butter, Coffee Powder, Lassi, Milk, Panner: 264
+Butter, Ghee, Lassi, Sugar: 587
+Cheese, Coffee Powder, Lassi, Yougurt: 565
+Bread, Butter, Cheese, Ghee, Milk: 259
+Cheese, Ghee: 2472
+Coffee Powder, Lassi, Sugar: 1192
+Bread, Coffee Powder, Sweet, Tea Powder: 547
+Cheese, Coffee Powder, Lassi, Panner, Sugar: 268
+Cheese, Ghee, Panner, Yougurt: 576
+Bread, Panner, Sweet, Tea Powder, Yougurt: 262
+Butter, Milk, Panner, Sweet, Yougurt: 265
+Bread, Butter, Milk, Sugar, Tea Powder: 260
+Butter, Cheese, Lassi, Tea Powder: 490
+Butter, Cheese, Sweet, Yougurt: 573
+Butter, Cheese, Milk, Sugar, Sweet: 262
+Coffee Powder, Lassi, Panner, Sweet, Yougurt: 295
+Panner, Sugar, Sweet, Yougurt: 557
+Butter, Cheese, Coffee Powder, Lassi, Yougurt: 260
+Ghee, Lassi, Panner, Sugar, Sweet: 272
+Coffee Powder, Panner, Yougurt: 1191
+Bread, Coffee Powder, Ghee, Panner, Tea Powder: 257
+Cheese, Coffee Powder, Lassi, Milk, Sweet: 265
+Bread, Ghee, Lassi, Sweet: 603
+Cheese, Milk, Panner, Sugar, Sweet: 263
+Butter, Cheese, Ghee, Panner, Yougurt: 276
+Bread, Cheese, Lassi, Sugar: 554
+Butter, Coffee Powder, Panner, Sweet: 549
+Bread, Coffee Powder, Milk, Tea Powder: 543
+Bread, Coffee Powder, Sweet: 1205
+Bread, Lassi, Sweet, Yougurt: 558
+Bread, Butter, Lassi, Panner: 558
+Butter, Cheese, Milk, Yougurt: 543
+Bread, Butter, Milk, Tea Powder, Yougurt: 260
+Butter, Panner, Sugar, Sweet, Yougurt: 280
+Cheese, Ghee, Sugar, Sweet: 514
+Cheese, Milk, Sweet, Tea Powder: 517
+Ghee, Lassi, Sugar, Tea Powder, Yougurt: 253
+Bread, Cheese, Panner, Yougurt: 578
+Cheese, Panner, Sugar, Yougurt: 566
+Cheese, Lassi, Sugar, Tea Powder: 519
+Bread, Lassi, Milk, Panner, Tea Powder: 271
+Butter, Ghee, Lassi, Milk: 575
+Bread, Ghee, Panner, Sugar, Sweet: 271
+Bread, Cheese, Coffee Powder, Tea Powder: 530
+Cheese, Coffee Powder, Lassi, Milk: 566
+Bread, Ghee, Lassi: 1207
+Coffee Powder, Sugar, Sweet: 1174
+Coffee Powder, Milk, Panner, Tea Powder: 505
+Bread, Butter, Ghee, Sugar, Tea Powder: 257
+Bread, Lassi, Milk, Yougurt: 556
+Bread, Butter, Sugar, Sweet, Yougurt: 267
+Bread, Coffee Powder, Panner, Sugar, Tea Powder: 272
+Bread, Panner: 2550
+Ghee, Lassi, Panner, Sweet, Tea Powder: 293
+Bread, Butter, Lassi, Panner, Sugar: 278
+Butter, Cheese, Panner, Sugar, Yougurt: 266
+Cheese, Lassi, Sugar, Sweet, Yougurt: 264
+Cheese, Coffee Powder, Milk, Sugar, Yougurt: 287
+Butter, Cheese, Coffee Powder, Lassi, Milk: 268
+Cheese, Lassi, Tea Powder, Yougurt: 529
+Bread, Butter, Cheese, Panner, Sweet: 257
+Butter, Panner, Tea Powder: 1117
+Butter, Cheese, Ghee, Milk: 534
+Bread, Cheese, Sugar, Sweet: 534
+Bread, Butter, Lassi, Yougurt: 534
+Bread, Butter, Ghee, Tea Powder, Yougurt: 266
+Coffee Powder, Panner, Sugar, Sweet, Yougurt: 263
+Ghee, Sugar, Sweet, Tea Powder: 541
+Cheese, Ghee, Sweet, Tea Powder: 501
+Bread, Coffee Powder, Panner, Tea Powder, Yougurt: 272
+Butter, Milk, Sugar: 1237
+Bread, Coffee Powder, Ghee, Panner: 586
+Butter, Milk, Sugar, Tea Powder: 564
+Bread, Coffee Powder: 2528
+Coffee Powder, Milk, Panner, Sugar, Yougurt: 273
+Ghee, Lassi: 2511
+Bread, Butter, Lassi, Sugar, Sweet: 287
+Coffee Powder, Ghee, Panner, Tea Powder: 537
+Coffee Powder, Sweet, Tea Powder: 1166
+Cheese, Ghee, Milk, Sweet, Yougurt: 252
+Bread, Butter, Cheese, Yougurt: 565
+Butter, Ghee, Sugar, Sweet, Tea Powder: 257
+Cheese, Ghee, Lassi, Sugar, Yougurt: 271
+Butter, Tea Powder: 2417
+Lassi, Panner, Sweet, Tea Powder, Yougurt: 268
+Cheese, Ghee, Milk, Tea Powder: 517
+Bread, Panner, Sugar: 1192
+Bread, Yougurt: 2507
+Sugar: 5482
+Cheese, Coffee Powder, Ghee, Sugar, Yougurt: 259
+Bread, Cheese, Sweet, Tea Powder, Yougurt: 252
+Butter, Milk, Tea Powder, Yougurt: 532
+Bread, Cheese, Sugar: 1171
+Butter, Coffee Powder, Ghee, Panner, Tea Powder: 272
+Bread, Cheese, Milk, Sugar, Yougurt: 275
+Ghee, Lassi, Sweet: 1211
+Bread, Ghee, Sweet: 1198
+Bread, Coffee Powder, Ghee, Lassi, Sugar: 280
+Cheese, Lassi, Sugar: 1145
+Lassi, Milk, Panner, Tea Powder: 557
+Bread, Butter: 2467
+Ghee, Panner, Sugar, Sweet: 541
+Bread, Cheese, Sweet, Tea Powder: 537
+Coffee Powder, Milk, Tea Powder: 1146
+Lassi, Sweet, Yougurt: 1197
+Butter, Lassi, Panner: 1186
+Bread, Ghee, Lassi, Panner, Yougurt: 264
+Bread, Butter, Lassi, Milk: 565
+Butter, Ghee, Sugar, Tea Powder: 555
+Butter, Sugar, Sweet, Yougurt: 602
+Bread, Butter, Coffee Powder, Lassi, Sugar: 271
+Coffee Powder, Panner, Sugar, Tea Powder: 551
+Bread, Coffee Powder, Ghee, Yougurt: 575
+Bread, Ghee, Milk, Sugar: 564
+Ghee, Milk, Panner, Sugar, Tea Powder: 259
+Cheese, Panner, Yougurt: 1198
+Bread, Butter, Panner, Sweet, Yougurt: 274
+Butter, Lassi, Panner, Sugar: 594
+Cheese, Coffee Powder, Tea Powder: 1104
+Butter, Ghee, Panner, Sugar, Sweet: 265
+Bread, Cheese, Coffee Powder, Panner, Sugar: 278
+Butter, Cheese, Panner, Sweet: 589
+Bread, Cheese, Milk, Tea Powder: 517
+Bread, Butter, Coffee Powder, Lassi: 559
+Cheese, Lassi, Panner, Sweet, Yougurt: 299
+Lassi, Milk, Yougurt: 1180
+Cheese, Lassi, Milk, Sweet: 573
+Bread, Butter, Coffee Powder, Panner, Yougurt: 264
+Panner, Yougurt: 2498
+Coffee Powder, Ghee, Lassi, Panner, Tea Powder: 272
+Coffee Powder, Tea Powder: 2451
+Bread, Coffee Powder, Sugar, Yougurt: 559
+Butter, Ghee, Tea Powder, Yougurt: 554
+Cheese, Sugar: 2460
+Bread: 5484
+Coffee Powder, Panner, Tea Powder, Yougurt: 543
+Bread, Cheese, Ghee, Sugar, Yougurt: 268
+Bread, Cheese, Coffee Powder, Milk, Sweet: 265
+Ghee, Sweet: 2504
+Bread, Lassi, Panner, Sweet: 613
+Bread, Ghee, Milk, Panner, Sugar: 276
+Ghee, Panner, Sweet, Tea Powder: 531
+Ghee, Lassi, Milk, Sugar, Sweet: 269
+Butter, Cheese, Lassi, Milk, Sweet: 264
+Butter, Lassi, Sugar, Sweet: 623
+Cheese, Coffee Powder, Lassi, Milk, Panner: 268
+Butter, Lassi, Yougurt: 1174
+Bread, Ghee, Lassi, Panner: 601
+Bread, Coffee Powder, Panner: 1216
+Bread, Butter, Yougurt: 1184
+Butter, Coffee Powder, Panner, Tea Powder, Yougurt: 256
+Bread, Butter, Coffee Powder, Sugar, Sweet: 275
+Sugar, Sweet: 2495
+Cheese, Sweet, Tea Powder, Yougurt: 547
+Ghee, Panner, Sugar, Tea Powder, Yougurt: 257
+Cheese, Milk, Sugar, Yougurt: 566
+Coffee Powder, Ghee, Lassi, Sugar: 574
+Cheese, Coffee Powder, Lassi, Sweet, Yougurt: 262
+Ghee, Lassi, Panner, Yougurt: 572
+Bread, Lassi, Sugar, Sweet, Tea Powder: 268
+Bread, Ghee, Lassi, Sweet, Tea Powder: 284
+Butter, Cheese, Sweet, Tea Powder, Yougurt: 257
+Bread, Coffee Powder, Milk, Sugar, Tea Powder: 278
+Bread, Cheese, Coffee Powder, Ghee: 587
+Butter, Coffee Powder, Lassi, Sugar: 569
+Coffee Powder, Ghee, Sugar, Tea Powder, Yougurt: 263
+Bread, Cheese: 2530
+Ghee, Lassi, Milk, Sweet, Tea Powder: 282
+Cheese, Panner, Sugar, Sweet, Yougurt: 270
+Butter, Cheese, Milk, Sugar, Yougurt: 259
+Bread, Butter, Sugar, Tea Powder: 541
+Butter, Panner, Sweet, Yougurt: 591
+Butter, Coffee Powder, Ghee, Lassi, Sugar: 273
+Cheese, Sweet, Tea Powder: 1135
+Ghee, Lassi, Panner, Sugar, Yougurt: 279
+Bread, Butter, Coffee Powder, Sweet: 542
+Cheese, Coffee Powder, Panner, Sugar: 554
+Cheese, Coffee Powder, Lassi, Milk, Yougurt: 272
+Cheese, Milk, Panner, Sugar, Yougurt: 270
+Bread, Ghee, Lassi, Yougurt: 555
+Butter, Lassi, Milk: 1201
+Butter, Ghee, Lassi, Panner, Yougurt: 279
+Butter, Coffee Powder, Panner, Yougurt: 575
+Bread, Coffee Powder, Yougurt: 1201
+Sweet, Tea Powder: 2503
+Coffee Powder, Ghee, Yougurt: 1226
+Ghee, Milk, Sugar: 1204
+Bread, Coffee Powder, Milk, Tea Powder, Yougurt: 277
+Butter, Ghee, Milk, Sweet: 554
+Bread, Coffee Powder, Lassi, Sweet: 597
+Cheese, Ghee, Milk, Panner, Sweet: 257
+Cheese, Ghee, Sugar, Yougurt: 554
+Cheese, Coffee Powder, Milk, Sweet: 540
+Butter, Cheese, Coffee Powder, Panner, Sugar: 260
+Bread, Butter, Tea Powder, Yougurt: 566
+Cheese, Milk, Tea Powder: 1094
+Ghee, Milk, Panner, Sugar: 560
+Butter, Coffee Powder, Lassi: 1191
+Bread, Sugar, Sweet, Tea Powder: 550
+Bread, Ghee, Panner, Sugar, Yougurt: 269
+Bread, Butter, Ghee, Lassi, Sweet: 257
+Coffee Powder, Sugar, Yougurt: 1207
+Bread, Coffee Powder, Ghee, Sugar, Tea Powder: 278
+Bread, Butter, Cheese, Lassi, Sugar: 256
+Bread, Coffee Powder, Sugar, Sweet, Yougurt: 263
+Milk, Tea Powder: 2444
+Bread, Cheese, Ghee, Yougurt: 571
+Bread, Butter, Lassi, Sweet, Yougurt: 251
+Butter, Cheese, Ghee, Sugar, Yougurt: 254
+Lassi, Panner, Sweet: 1265
+Butter, Ghee, Milk, Panner, Sugar: 274
+Bread, Coffee Powder, Lassi, Panner, Sugar: 295
+Butter, Ghee: 2530
+Ghee, Lassi, Panner: 1218
+Bread, Ghee, Panner: 1221
+Bread, Butter, Cheese, Panner, Yougurt: 271
+Bread, Ghee, Lassi, Milk: 582
+Bread, Cheese, Lassi, Milk, Sugar: 262
+Bread, Cheese, Sugar, Yougurt: 557
+Bread, Lassi, Milk, Sugar, Tea Powder: 262
+Bread, Coffee Powder, Ghee, Tea Powder, Yougurt: 272
+Bread, Butter, Cheese: 1164
+Bread, Butter, Lassi, Milk, Yougurt: 262
+Bread, Panner, Sugar, Sweet: 562
+Bread, Milk, Panner, Sugar, Sweet: 271
+Lassi, Sugar, Sweet, Tea Powder: 594
+Ghee, Lassi, Sweet, Tea Powder: 580
+Coffee Powder, Milk, Sugar, Tea Powder: 584
+Bread, Coffee Powder, Lassi, Sugar, Sweet: 274
+Bread, Lassi, Tea Powder: 1153
+Cheese, Coffee Powder, Ghee, Milk, Sugar: 252
+Butter, Lassi, Sugar, Sweet, Tea Powder: 286
+Bread, Sweet, Yougurt: 1166
+Cheese, Coffee Powder, Ghee: 1181
+Bread, Lassi, Milk, Tea Powder, Yougurt: 252
+Butter, Ghee, Lassi, Sweet, Tea Powder: 267
+Butter, Coffee Powder, Milk, Sugar, Tea Powder: 277
+Butter, Coffee Powder, Sweet, Tea Powder: 546
+Bread, Milk, Sugar, Tea Powder, Yougurt: 275
+Butter, Sugar, Tea Powder: 1167
+Coffee Powder, Milk, Tea Powder, Yougurt: 570
+Bread, Cheese, Coffee Powder, Milk, Panner: 277
+Ghee, Panner: 2523
+Butter, Coffee Powder, Sweet: 1174
+Ghee, Lassi, Yougurt: 1166
+Bread, Butter, Milk, Sweet: 575
+Ghee, Panner, Sugar, Yougurt: 563
+Butter, Ghee, Lassi, Sweet: 580
+Bread, Milk, Panner, Sweet, Tea Powder: 273
+Bread, Milk, Yougurt: 1192
+Coffee Powder, Ghee, Sugar, Tea Powder: 570
+Butter, Cheese, Lassi, Sugar: 549
+Coffee Powder, Sugar, Sweet, Yougurt: 567
+Butter, Coffee Powder, Milk, Tea Powder: 538
+Coffee Powder, Lassi, Sweet: 1231
+Butter, Coffee Powder, Milk, Tea Powder, Yougurt: 269
+Cheese, Coffee Powder, Lassi, Panner, Sweet: 273
+Butter, Lassi, Sweet, Yougurt: 594
+Ghee, Milk, Sugar, Sweet, Yougurt: 258
+Butter, Tea Powder, Yougurt: 1169
+Milk, Panner, Sugar, Sweet, Yougurt: 260
+Coffee Powder, Ghee, Milk, Sugar, Sweet: 258
+Bread, Cheese, Coffee Powder, Sweet, Yougurt: 259
+Sugar, Sweet, Tea Powder: 1190
+Bread, Coffee Powder, Panner, Tea Powder: 557
+Coffee Powder, Lassi, Panner, Sugar: 595
+Cheese, Coffee Powder, Ghee, Lassi, Panner: 280
+Butter, Ghee, Panner, Sugar, Yougurt: 285
+Lassi, Milk, Sugar, Sweet, Tea Powder: 288
+Butter, Cheese, Panner, Yougurt: 575
+Coffee Powder, Lassi, Sugar, Sweet, Tea Powder: 291
+Bread, Coffee Powder, Milk, Sugar: 579
+Butter, Coffee Powder, Ghee, Sugar, Tea Powder: 274
+Butter, Cheese, Coffee Powder, Tea Powder: 516
+Cheese, Ghee, Yougurt: 1184
+Butter, Coffee Powder, Sugar, Sweet, Yougurt: 298
+Bread, Panner, Sugar, Sweet, Tea Powder: 254
+Coffee Powder, Ghee, Tea Powder, Yougurt: 566
+Bread, Cheese, Lassi, Sweet: 578
+Bread, Cheese, Coffee Powder, Ghee, Sugar: 255
+Butter, Lassi, Milk, Yougurt: 571
+Bread, Ghee, Milk, Sweet, Yougurt: 259
+Butter, Coffee Powder, Lassi, Panner, Sugar: 280
+Bread, Butter, Ghee, Milk, Sugar: 266
+Bread, Butter, Coffee Powder, Ghee, Yougurt: 261
+Bread, Ghee, Lassi, Sugar, Yougurt: 261
+Bread, Cheese, Coffee Powder, Milk, Yougurt: 282
+Ghee, Yougurt: 2477
+Bread, Lassi, Panner, Yougurt: 545
+Bread, Lassi, Milk, Panner, Sugar: 282
+Ghee, Lassi, Milk, Sugar, Yougurt: 278
+Ghee, Lassi, Milk: 1203
+Bread, Ghee, Milk: 1184
+Coffee Powder, Lassi, Sugar, Sweet: 596
+Lassi: 5432
+Bread, Butter, Coffee Powder, Panner: 538
+Cheese, Sugar, Yougurt: 1176
+Bread, Cheese, Lassi: 1189
+Butter, Coffee Powder, Ghee, Tea Powder, Yougurt: 283
+Cheese, Milk, Panner, Tea Powder: 502
+Panner, Sugar, Sweet: 1167
+Lassi, Milk, Tea Powder, Yougurt: 534
+Bread, Cheese, Panner, Sugar, Tea Powder: 259
+Coffee Powder, Ghee, Milk, Sweet, Tea Powder: 252
+Bread, Butter, Coffee Powder, Sugar, Yougurt: 276
+Milk, Sugar, Tea Powder, Yougurt: 574
+Sugar, Yougurt: 2529
+Lassi, Milk, Panner, Sugar, Sweet: 295
+Coffee Powder, Lassi, Panner, Sugar, Sweet: 292
+Coffee Powder, Ghee, Panner, Sugar, Yougurt: 264
+Coffee Powder, Ghee, Lassi, Sugar, Tea Powder: 277
+Butter, Coffee Powder, Lassi, Sugar, Sweet: 290
+Cheese, Coffee Powder, Milk, Panner: 547
+Cheese, Coffee Powder, Ghee, Lassi, Yougurt: 280
+Bread, Butter, Lassi, Panner, Sweet: 270
+Butter, Panner, Sugar: 1208
+Bread, Lassi, Sugar, Sweet: 593
+Bread, Butter, Ghee, Lassi, Panner: 266
+Bread, Milk, Panner, Sugar: 584
+Butter, Milk, Sugar, Tea Powder, Yougurt: 261
+Milk, Panner, Sweet, Tea Powder: 556
+Bread, Lassi, Panner, Sweet, Yougurt: 270
+Bread, Cheese, Panner, Tea Powder, Yougurt: 255
+Coffee Powder, Ghee, Lassi, Tea Powder, Yougurt: 259
+Cheese, Coffee Powder, Lassi, Tea Powder: 520
+Ghee, Milk: 2511
+Cheese, Coffee Powder, Sweet, Yougurt: 551
+Coffee Powder, Panner, Sweet, Yougurt: 577
+Butter, Milk, Sweet: 1197
+Cheese, Lassi: 2484
+Cheese, Ghee, Panner, Tea Powder: 509
+Butter, Cheese, Sweet, Tea Powder: 539
+Butter, Sugar: 2571
+Coffee Powder, Lassi, Panner, Sweet, Tea Powder: 300
+Panner, Sugar, Sweet, Tea Powder: 549
+Coffee Powder, Panner, Tea Powder: 1111
+Cheese, Coffee Powder, Ghee, Sugar: 524
+Butter, Cheese, Coffee Powder, Sweet, Yougurt: 269
+Butter, Coffee Powder, Panner, Sweet, Yougurt: 279
+Ghee, Milk, Sweet, Yougurt: 538
+Butter, Coffee Powder, Ghee, Yougurt: 598
+Cheese, Coffee Powder, Milk, Yougurt: 586
+Bread, Panner, Sweet: 1218
+Sweet: 5483
+Cheese, Coffee Powder, Ghee, Lassi, Milk: 272
+Lassi, Milk, Panner, Sugar: 590
+Coffee Powder, Milk, Sugar: 1218
+Bread, Cheese, Sweet: 1190
+Bread, Cheese, Ghee, Lassi, Sugar: 262
+Bread, Panner, Sweet, Yougurt: 569
+Bread, Lassi, Sweet, Tea Powder: 579
+Bread, Ghee, Panner, Sugar: 586
+Coffee Powder, Milk, Sugar, Tea Powder, Yougurt: 282
+Bread, Coffee Powder, Ghee, Lassi, Sweet: 289
+Cheese, Lassi, Sweet: 1219
+Butter, Cheese, Milk, Tea Powder: 496
+Butter, Panner, Sugar, Sweet, Tea Powder: 264
+Butter, Ghee, Milk, Sweet, Yougurt: 253
+Bread, Coffee Powder, Lassi, Sweet, Yougurt: 268
+Bread, Cheese, Panner, Tea Powder: 546
+Cheese, Panner, Sugar, Tea Powder: 537
+Butter, Cheese, Coffee Powder, Milk, Yougurt: 270
+Butter, Coffee Powder, Sugar, Yougurt: 608
+Lassi, Panner, Yougurt: 1169
+Cheese, Coffee Powder, Sugar: 1156
+Butter, Lassi, Milk, Panner, Sugar: 282
+Bread, Butter, Coffee Powder, Lassi, Sweet: 257
+Bread, Ghee, Milk, Sweet: 577
+Butter, Coffee Powder, Panner: 1149
+Bread, Cheese, Milk, Sugar: 579
+Bread, Butter, Coffee Powder, Milk: 554
+Butter, Lassi, Panner, Sweet: 609
+Bread, Lassi, Milk, Tea Powder: 547
+Bread, Butter, Sugar, Sweet, Tea Powder: 264
+Bread, Butter, Milk, Panner: 552
+Bread, Cheese, Coffee Powder, Panner, Sweet: 269
+Butter, Ghee, Lassi, Panner: 591
+Cheese, Lassi, Sugar, Sweet, Tea Powder: 255
+Bread, Coffee Powder, Lassi, Milk, Yougurt: 270
+Bread, Milk, Panner, Sugar, Yougurt: 266
+Bread, Butter, Cheese, Ghee, Yougurt: 258
+Cheese, Coffee Powder, Milk, Sugar, Tea Powder: 255
+Lassi, Panner, Sweet, Yougurt: 588
+Cheese, Panner, Tea Powder, Yougurt: 546
+Bread, Coffee Powder, Lassi, Milk: 574
+Cheese, Sweet: 2498
+Bread, Ghee, Milk, Panner, Sweet: 271
+Coffee Powder, Panner, Sugar, Sweet, Tea Powder: 266
+Milk, Panner, Sugar: 1207
+Butter, Cheese, Coffee Powder, Ghee, Milk: 253
+Bread, Butter, Ghee, Lassi, Milk: 271
+Bread, Butter, Cheese, Sugar, Yougurt: 263
+Butter, Lassi, Panner, Sweet, Yougurt: 282
+Butter, Cheese, Panner, Tea Powder, Yougurt: 254
+Coffee Powder, Milk, Panner, Sugar, Tea Powder: 263
+Bread, Cheese, Lassi, Panner: 580
+Coffee Powder, Lassi, Milk, Panner, Sugar: 289
+Bread, Butter, Panner, Sugar, Sweet: 268
+Cheese, Coffee Powder, Milk, Tea Powder, Yougurt: 256
+Butter, Cheese, Coffee Powder, Ghee: 536
+Butter, Coffee Powder, Yougurt: 1216
+Bread, Butter, Ghee, Sugar: 564
+Bread, Butter, Cheese, Tea Powder: 522
+Cheese, Lassi, Panner, Sugar, Sweet: 272
+Cheese, Ghee, Panner, Sugar, Yougurt: 270
+Bread, Butter, Milk, Yougurt: 573
+Cheese, Ghee, Lassi, Sugar: 544
+Bread, Tea Powder: 2445
+Coffee Powder, Ghee, Lassi, Sweet: 586
+Butter, Ghee, Lassi, Yougurt: 560
+Coffee Powder, Lassi, Sweet, Yougurt: 580
+Bread, Cheese, Milk, Sugar, Tea Powder: 252
+Coffee Powder, Ghee, Milk, Sugar, Yougurt: 281
+Panner, Sweet, Yougurt: 1174
+Lassi, Sweet, Tea Powder: 1216
+Butter, Coffee Powder, Lassi, Sweet: 577
+Ghee, Panner, Sugar: 1187
+Bread, Ghee, Lassi, Panner, Tea Powder: 281
+Butter, Coffee Powder, Ghee, Lassi, Sweet: 265
+Butter, Sugar, Sweet, Tea Powder: 586
+Lassi, Milk, Panner, Sweet, Yougurt: 280
+Cheese, Coffee Powder, Panner, Sweet: 551
+Bread, Coffee Powder, Ghee, Tea Powder: 562
+Butter, Coffee Powder, Lassi, Sweet, Yougurt: 282
+Cheese, Panner, Tea Powder: 1117
+Cheese, Coffee Powder, Ghee, Tea Powder, Yougurt: 261
+Bread, Ghee, Lassi, Milk, Sugar: 284
+Coffee Powder, Lassi, Milk, Yougurt: 585
+Bread, Lassi, Milk, Sweet, Yougurt: 264
+Milk, Panner, Sugar, Yougurt: 563
+Butter, Cheese, Ghee, Yougurt: 548
+Bread, Cheese, Milk, Tea Powder, Yougurt: 254
+Ghee, Milk, Sweet: 1178
+Bread, Coffee Powder, Ghee, Milk, Sugar: 261
+Cheese, Milk, Sugar: 1182
+Butter, Coffee Powder, Milk: 1159
+Lassi, Milk, Tea Powder: 1159
+Panner, Tea Powder: 2409
+Butter, Milk, Panner: 1139
+Cheese, Coffee Powder, Lassi, Sugar, Sweet: 253
+Butter, Cheese, Coffee Powder, Panner, Sweet: 257
+Bread, Coffee Powder, Sugar, Tea Powder: 574
+Ghee, Milk, Panner, Sweet: 549
+Bread, Butter, Coffee Powder, Milk, Sugar: 283
+Lassi, Panner, Sugar, Sweet, Yougurt: 279
+Panner, Sugar, Yougurt: 1184
+Butter, Coffee Powder, Lassi, Milk, Yougurt: 285
+Butter, Milk, Panner, Sugar, Yougurt: 270
+Butter, Cheese, Sugar, Yougurt: 560
+Coffee Powder, Lassi, Milk: 1204
+Cheese, Milk, Sugar, Tea Powder, Yougurt: 261
+Coffee Powder, Lassi, Panner, Sugar, Yougurt: 290
+Butter, Panner, Sugar, Sweet: 589
+Bread, Cheese, Lassi, Panner, Sugar: 282
+Butter, Lassi, Tea Powder: 1117
+Butter, Sweet, Yougurt: 1210
+Panner: 5444
+Butter, Ghee, Milk, Panner, Sweet: 253
+Bread, Coffee Powder, Lassi, Panner, Sweet: 300
+Bread, Butter, Cheese, Coffee Powder, Sugar: 257
+Bread, Butter, Tea Powder: 1126
+Bread, Milk, Sweet, Yougurt: 562
+Bread, Coffee Powder, Tea Powder, Yougurt: 583
+Bread, Lassi, Sugar, Yougurt: 542
+Bread, Coffee Powder, Ghee, Lassi, Panner: 302
+Cheese, Lassi, Panner: 1184
